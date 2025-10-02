@@ -21,7 +21,7 @@ Aceitamos qualquer ajuda no código.
 - **asyncio** para tarefas assíncronas
 
 ## Licença
-Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a **AGPL-3.0** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 E Também não é permitido alterar qualquer coisa neste projeto
 
 ---
